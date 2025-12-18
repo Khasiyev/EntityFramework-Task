@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\EntityFramework-Task\\EntityFramework-Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F50F613-5950-4BC8-B48A-B00BEFC84093}|EntityFramework-Task\\EntityFramework-Task.csproj|c:\\users\\asus\\desktop\\entityframework-task\\entityframework-task\\entityframework-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F50F613-5950-4BC8-B48A-B00BEFC84093}|EntityFramework-Task\\EntityFramework-Task.csproj|solutionrelative:entityframework-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFramework-Task\\EntityFramework-Task\\EntityFramework-Task\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFramework-Task\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFramework-Task\\EntityFramework-Task\\EntityFramework-Task\\Program.cs",
+              "RelativeToolTip": "EntityFramework-Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T16:32:25.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
