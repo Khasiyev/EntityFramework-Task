@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{C15253B0-8DCD-BDCF-FA68-66A194FCF6E8}|EntityFramework-Task\\EntityFramework-Task.csproj|solutionrelative:entityframework-task\\data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\EntityFramework-Task\\EntityFramework-Task\\EntityFramework-Task\\Migrations\\20251219061334_AddedMailColumnToStudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EntityFramework-Task\\Migrations\\20251219061334_AddedMailColumnToStudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C15253B0-8DCD-BDCF-FA68-66A194FCF6E8}|EntityFramework-Task\\EntityFramework-Task.csproj|c:\\users\\asus\\desktop\\entityframework-task\\entityframework-task\\entityframework-task\\data\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C15253B0-8DCD-BDCF-FA68-66A194FCF6E8}|EntityFramework-Task\\EntityFramework-Task.csproj|solutionrelative:entityframework-task\\data\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15253B0-8DCD-BDCF-FA68-66A194FCF6E8}|EntityFramework-Task\\EntityFramework-Task.csproj|c:\\users\\asus\\desktop\\entityframework-task\\entityframework-task\\entityframework-task\\migrations\\20251219061334_addedmailcolumntostudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15253B0-8DCD-BDCF-FA68-66A194FCF6E8}|EntityFramework-Task\\EntityFramework-Task.csproj|solutionrelative:entityframework-task\\migrations\\20251219061334_addedmailcolumntostudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "20251219061334_AddedMailColumnToStudent.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFramework-Task\\EntityFramework-Task\\EntityFramework-Task\\Migrations\\20251219061334_AddedMailColumnToStudent.cs",
               "RelativeDocumentMoniker": "EntityFramework-Task\\Migrations\\20251219061334_AddedMailColumnToStudent.cs",
@@ -38,8 +38,7 @@
               "RelativeToolTip": "EntityFramework-Task\\Migrations\\20251219061334_AddedMailColumnToStudent.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T06:13:34.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T06:13:34.921Z"
             },
             {
               "$type": "Document",
@@ -51,12 +50,11 @@
               "RelativeToolTip": "EntityFramework-Task\\Data\\Contexts\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T17:09:09.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T17:09:09.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFramework-Task\\EntityFramework-Task\\EntityFramework-Task\\Data\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "EntityFramework-Task\\Data\\Entities\\Student.cs",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "EntityFramework-Task\\Data\\Entities\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T17:05:28.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T17:05:28.545Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "EntityFramework-Task\\Program.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFramework-Task\\EntityFramework-Task\\EntityFramework-Task\\Program.cs",
               "RelativeToolTip": "EntityFramework-Task\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAIgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T16:32:25.401Z",
               "EditorCaption": ""
